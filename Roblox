@@ -1,0 +1,4 @@
+[
+  { "token": "print(hi)%14", "command": "kick", "player": "Spieler1", "reason": "Test Kick" },
+  { "token": "print(hi)%14", "command": "ban", "player": "Spieler2", "reason": "Test Ban" }
+]
